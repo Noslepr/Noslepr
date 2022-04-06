@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Noslepr's GitHub stats](https://github-readme-stats.vercel.app/api?username=noslepr)](https://github.com/noslepr/github-readme-stats)
 
 <!--
 **Noslepr/Noslepr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
