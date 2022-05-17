@@ -1,5 +1,4 @@
-<!-- [![Noslepr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Noslepr)](https://github.com/Noslepr/github-readme-stats) -->
-![](https://raw.githubusercontent.com/Noslepr/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![Noslepr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Noslepr&theme=dark&show_icons=true)
 <!--
 **Noslepr/Noslepr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
